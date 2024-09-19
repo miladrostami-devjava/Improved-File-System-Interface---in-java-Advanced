@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PosixFileAttributes-nio-2-in-java" />
+        <module name="FileTreeMatching-in-java" />
+        <module name="WatchServiceAPI-in-java" />
+        <module name="PathFeatures-in-java-nio2" />
+        <module name="DosFileAttributes-in-java-nio2" />
+        <module name="FileStore-in-java-nio2" />
+        <module name="URI-in-java-nio-2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

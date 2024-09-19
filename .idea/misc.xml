@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WatchServiceAPI-in-java/pom.xml" />
+        <option value="$PROJECT_DIR$/FileTreeMatching-in-java/pom.xml" />
+        <option value="$PROJECT_DIR$/PosixFileAttributes-nio-2-in-java/pom.xml" />
+        <option value="$PROJECT_DIR$/DosFileAttributes-in-java-nio2/pom.xml" />
+        <option value="$PROJECT_DIR$/FileStore-in-java-nio2/pom.xml" />
+        <option value="$PROJECT_DIR$/URI-in-java-nio-2/pom.xml" />
+        <option value="$PROJECT_DIR$/PathFeatures-in-java-nio2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
